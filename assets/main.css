@@ -1,0 +1,58 @@
+body {
+    background-color:#F1F1F1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.jcib-logo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.website-title{
+    color: #ffffff;
+    padding: 25px 0px;
+    font-size: 35px;
+    margin-right: auto;
+    margin-left: 130px;
+    font-weight: bold;
+}
+
+.analysis-findings{
+    font-size: 21px;
+    border: 1px solid #cdcdcd;
+    background-color: rgb(117, 210, 253);
+    border-color: rgba(0, 0, 0, .15);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.app-overview{
+    font-size: 21px;
+    border: 1px solid #cdcdcd;
+    background-color: rgb(117, 210, 253);
+    border-color: rgba(0, 0, 0, .15);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.ml-textbox{
+    font-size: 18px;
+    border: 1px solid #cdcdcd;
+    background-color: rgb(117, 210, 253);
+    border-color: rgba(0, 0, 0, .15);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.problem-textbox{
+    color:#dfdfdf;
+    font-size: 21px;
+    border: 1px solid #cdcdcd;
+    background-color: rgb(197, 0, 0);
+    border-color: rgba(0, 0, 0, .15);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.donut-graphs-3{
+    display: flex;
+    flex-direction: row;
+}

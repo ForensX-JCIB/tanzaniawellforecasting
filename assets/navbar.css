@@ -1,0 +1,26 @@
+.navbar-blue-pills{
+    overflow: hidden;
+}
+.navbar-blue-pills a{
+    float: left;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px 16px;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 500;
+}
+.navbar-blue-pills a:hover{
+    color:black;
+    background-color: #0091D5;
+}
+
+
+/**
+.navbar-blue-pills a.active{
+    border-top: 3px solid #0091d5;
+    padding: 47px 16px;
+} 
+*/
+
+
